@@ -30,3 +30,25 @@ Average Heart Rate:        95.6 BPM
 -> Normal Heart Rate (95.6 BPM)
 -> Arrhythmia Alert: 12 instances of high beat-to-beat variance.
 ==================================================
+```
+
+## How to Run the Project
+
+### 1. Clone the repository:
+
+```bash
+git clone [https://github.com/josephquigley01-cmd/Survival-Analysis-on-Clinical-Trial-Data.git](https://github.com/josephquigley01-cmd/Survival-Analysis-on-Clinical-Trial-Data.git)
+cd Survival-Analysis-on-Clinical-Trial-Data
+```
+
+### 2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Execute the analysis:
+Open the Jupyter Notebook to run the models and generate the clinical plots:
+
+```bash
+jupyter notebook notebooks/Survival_Analysis_on_Clinical_Trial_Data.ipynb
