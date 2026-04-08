@@ -37,8 +37,8 @@ Average Heart Rate:        95.6 BPM
 ### 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/josephquigley01-cmd/Survival-Analysis-on-Clinical-Trial-Data.git](https://github.com/josephquigley01-cmd/Survival-Analysis-on-Clinical-Trial-Data.git)
-cd Survival-Analysis-on-Clinical-Trial-Data
+git clone [https://github.com/josephquigley01-cmd/Biomedical-Signal-Processing-using-DWT.git](https://github.com/josephquigley01-cmd/Biomedical-Signal-Processing-using-DWT.git)
+cd Biomedical-Signal-Processing-using-DWT
 ```
 
 ### 2. Install dependencies:
@@ -51,4 +51,4 @@ pip install -r requirements.txt
 Open the Jupyter Notebook to run the models and generate the clinical plots:
 
 ```bash
-jupyter notebook notebooks/Survival_Analysis_on_Clinical_Trial_Data.ipynb
+jupyter notebook notebooks/ECG_Analysis.ipynb
